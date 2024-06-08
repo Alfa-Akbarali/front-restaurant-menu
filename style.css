@@ -300,7 +300,7 @@ body
   padding: 20px;
   background: #CCC7C7;
   width: 20%;
-  height: 20%;
+  height: 8%;
   border-radius: 35px;
   cursor: pointer;
 }
@@ -309,6 +309,7 @@ body
 }
 .card3_non_veg
 {
+  height: 10px;
   text-decoration: none;
   font-family: "Inter", sans-serif;
   font-size: 25px;
